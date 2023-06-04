@@ -88,4 +88,5 @@ for i in range(n):
     elif x < min_massa:
         min_massa =x
 print(min_massa, max_massa)
+
         
